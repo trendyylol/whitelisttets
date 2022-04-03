@@ -1,0 +1,5 @@
+local whitelist = {
+  "D8232B4C-79F5-40F1-83CA-1FACE795E015",
+}
+
+return whitelist
